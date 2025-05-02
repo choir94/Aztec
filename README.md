@@ -1,4 +1,4 @@
-# Langkah-langkah Node Aztec
+# Langkah-langkah Node Aztec Sequencer
 
 1. **Siapkan RPC dan Faucet untuk Node Aztec**
    - Sebelum menjalankan node Aztec, pastikan Anda memiliki akses ke RPC Ethereum Sepolia, RPC Sepolia Beacon, dan dana testnet dari Faucet Ethereum Sepolia.
