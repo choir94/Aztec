@@ -1,4 +1,4 @@
-# Langkah-langkah untuk Mendapatkan Role Apprentice di Server Discord Aztec
+# Langkah-langkah Node Aztec
 
 1. **Siapkan RPC dan Faucet untuk Node Aztec**
    - Sebelum menjalankan node Aztec, pastikan Anda memiliki akses ke RPC Ethereum Sepolia, RPC Sepolia Beacon, dan dana testnet dari Faucet Ethereum Sepolia.
